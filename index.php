@@ -6,7 +6,7 @@
 <body>
 
     <?php
-        echo "<h1>Hello Linkedin Family! Application V1.0</h1>";
+        echo "<h1>Hello Linkedin Family! Application V2.0</h1>";
     ?>
 
 </body>
